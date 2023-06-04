@@ -1,0 +1,9 @@
+git commands to upload project
+
+1.git init
+2.git status
+3.git add .
+4.git status
+5.git commit -m "Project add"
+6.git remote add origin "https link"
+7.git push origin master
